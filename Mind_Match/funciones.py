@@ -44,7 +44,7 @@ def Menu(window, button_clic):
 
     Label(window, text="Volumen", bg="SystemButtonFace", fg="black").place(x=15, y=655)
     volume_control = Scale(window, from_=0, to=100, orient=HORIZONTAL, command=set_volume)
-    volume_control.set(volume * 50)
+    volume_control.set(volume * 100)
     volume_control.place(x=15, y=675)
     
 def set_volume(val):
