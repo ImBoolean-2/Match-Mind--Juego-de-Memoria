@@ -8,10 +8,12 @@ MatchMind es un emocionante juego de memoria creado en Python. Utiliza la librer
 
 ## 🎨 Recursos 
 
-Los recursos gráficos utilizados en este proyecto han sido cuidadosamente seleccionados de internet, con la excepción de los botones de inicio que fueron creados específicamente para este proyecto.
+Los recursos gráficos utilizados en este proyecto han sido seleccionados de internet, con la excepción de los botones de niveles y cartas que fueron creados específicamente para este proyecto.
 
 - Más de 90 cartas únicas para un desafío constante
 - Más de 11 imágenes vibrantes utilizadas para la decoración
+- Botones usando la libreria Tkinter
+- Tiempo de visualizacion
 
 ## 🎮 Características 
 
@@ -30,7 +32,7 @@ El proyecto está organizado en varios archivos y directorios para mantener el c
 - `matchmind.py`: Este archivo contiene la lógica principal del juego.
 - `player_stats.py`: Este archivo gestiona las estadísticas del jugador.
 - `resources/`: Este directorio contiene todos los recursos utilizados en el juego, como imágenes, sonidos y fuentes.
-- `scoreboard.py`: Este archivo gestiona el marcador del juego.
+- `scoreboard.py`: Este archivo gestiona el marcador del juego `Proximamente`.
 - `utils.py`: Este archivo contiene varias funciones de utilidad que se utilizan en todo el proyecto.
 
 ## 🎲 Cómo Jugar
@@ -43,4 +45,4 @@ python main.py
 
 ## Creado por
 
-Boolean 👨‍💻
+Boolean/Bit 👨‍💻
