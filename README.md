@@ -1,10 +1,21 @@
-# MatchMind
+# MatchMind 🧠
 
-## Juego de memoria en Python usando las librerias Tkinter a metodo de interfaz grafica
-## Recursos sacados directamente de internet e imagenes creadas a excepcion de los botones del inicio
-## +90 cartas usadas en el proyecto
-## +11 imagenes en decoracion
-##
-## Incluye niveles - musica - sonidos - vidas
+![Imagen del juego](Mind_Match/resources/others/logo.png)
+MatchMind es un juego de memoria creado en Python, utilizando la librería Tkinter para la interfaz gráfica.
 
-## Creado by Boolean
+## Recursos 🎨
+
+Los recursos gráficos utilizados en este proyecto han sido obtenidos de internet, con la excepción de los botones de inicio que fueron creados específicamente para este proyecto.
+
+- Más de 90 cartas usadas en el proyecto
+- Más de 11 imágenes usadas para la decoración
+
+## Características 🎮
+
+- Niveles de dificultad
+- Música y sonidos
+- Sistema de vidas
+
+## Creado por
+
+Boolean 👨‍💻
