@@ -35,10 +35,11 @@ El proyecto está organizado en varios archivos y directorios para mantener el c
 
 ## 🎲 Cómo Jugar
 
-Para iniciar el juego, simplemente ejecuta el archivo `main.py` con Python. Asegúrate de tener instalada la librería Tkinter y si no es asi, no hay problema el archivo esta configurado para que se instalen solos!.
+Para iniciar el juego, simplemente ejecuta el archivo `main.py` con Python. Asegúrate de tener instalada la librería Tkinter y si no es asi, no hay problema el archivo esta configurado para que se instale automaticamente!.
 
 ```sh
 python main.py
+```
 
 ## Creado por
 
